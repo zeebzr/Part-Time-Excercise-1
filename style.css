@@ -32,12 +32,32 @@ aside section{
 	opacity:0.9;
 }
 
-p.black{
+p.red{
 
 	color:red;
 	text-align:center;
 }
 
+p.red:hover{
+	color:green;
+}
+
 h2{
 	color:white;
 }
+
+header{
+	padding-left:100px;
+	padding-right:25px;
+	padding-bottom:100px;
+	background-color:white;
+	border:none;
+	opacity:0.9;
+}
+
+body{
+	background-image:url(http://www.wallspick.com/wp-content/uploads/2014/12/Beautiful-Cute-Cat-640x400.jpg);
+	background-size:100%;
+}
+
+

@@ -1,0 +1,43 @@
+p.green{
+	color:green;
+	font-family:helvetica;
+	text-align:center;
+}
+
+ul
+{
+    list-style-type: square;
+    color:white;
+}
+
+p.bullet{
+	color:black;
+	font-family:Verdana;
+}
+
+p.white{
+	font-color:white;
+}
+
+aside{
+	background-image:url(http://www.wallspick.com/wp-content/uploads/2014/12/Beautiful-Cute-Cat-640x400.jpg);
+	padding:30px;
+	border:none;
+	box-shadow:none;
+}
+
+aside section{
+	border:none;
+	box-shadow:none;
+	opacity:0.9;
+}
+
+p.black{
+
+	color:red;
+	text-align:center;
+}
+
+h2{
+	color:white;
+}
